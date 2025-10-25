@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Anirudh Pandurangi</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate Python developer</h3>
 <h3 align="center">Computer Science Student. Data Science Enthusiast. Python developer</h3>
 <h3 align="center">Resume</h3>
